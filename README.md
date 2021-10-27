@@ -88,7 +88,7 @@ Create a connection string to connect the database to the web application
 }
 ```
 
-- Update all the information above in the square brackets. If you named the database the same name as the .sql file that was imported, then `database =` should be `mary_marks`. Change the server, port, and uid if necessary.
+- Update all the information above in the square brackets. Change the server, port, and uid if necessary.
 
 ### Import/Update Database Using Entity Framework Core
 
